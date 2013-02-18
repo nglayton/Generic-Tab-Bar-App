@@ -1,0 +1,283 @@
+TTabBar
+v7
+r0
+t308360569.349724
+cCheck dependencies
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BBE7F650000000000000110
+t1270775653
+s272
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.h
+c000000004A50D8A10000000000000269
+t1246812321
+s617
+i<UIKit/UIKit.h>
+
+N/Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.m
+c000000004A50D99900000000000008F5
+t1246812569
+s2293
+i"TabBarAppDelegate.h"
+
+N/Users/Neal/Desktop/TabBar/MainWindow.xib
+c000000004A50CD2C0000000000005625
+t1246809388
+s22053
+
+N/Users/Neal/Desktop/TabBar/TabBar_Prefix.pch
+c000000004A50C19D00000000000000B5
+t1246806429
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app.dSYM
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/MainWindow.nib
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/PkgInfo
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBar.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Neal/Desktop/TabBar/main.m
+c000000004A50C79E0000000000000167
+t1246807966
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-cbeyuczyxootuuctciatemzlrwlv/TabBar_Prefix.pch.gch
+t1286667638
+s13805456
+
+N/var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-etaagixdhynejyanxxvnobumbloh/TabBar_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-gxfpqgoypcudvyaknrkvxbvnyycj/TabBar_Prefix.pch.gch
+t1286667608
+s12948880
+
+NTabBar-Info.plist
+c000000004A50C19D000000000000038D
+t1246806429
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308360569#308360569#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o /Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308360439.010623
+e308360439.099987
+r1
+xCompileC
+xbuild/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o
+x/Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.m308360439#308360439#0(0"0(0#0#54"/Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.m4300911832#1759"    cd /Users/Neal/Desktop/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator -I/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/include -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -include /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-cbeyuczyxootuuctciatemzlrwlv/TabBar_Prefix.pch -c /Users/Neal/Desktop/TabBar/Classes/TabBarAppDelegate.m -o /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o0#
+
+CCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o /Users/Neal/Desktop/TabBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308360439.009331
+e308360439.073362
+r1
+xCompileC
+xbuild/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o
+x/Users/Neal/Desktop/TabBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/Neal/Desktop/TabBar/main.m308360439#308360439#0(0"0(0#0#33"/Users/Neal/Desktop/TabBar/main.m4300911832#1725"    cd /Users/Neal/Desktop/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator -I/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/include -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -include /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-cbeyuczyxootuuctciatemzlrwlv/TabBar_Prefix.pch -c /Users/Neal/Desktop/TabBar/main.m -o /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Neal/Desktop/TabBar/MainWindow.xib
+s308360437.940438
+e308360438.289920
+r1
+xCompileXIB
+x/Users/Neal/Desktop/TabBar/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308360437#308360438#0(0"0(0#0#41"/Users/Neal/Desktop/TabBar/MainWindow.xib4300911832#457"    cd /Users/Neal/Desktop/TabBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/MainWindow.nib /Users/Neal/Desktop/TabBar/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app.dSYM /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+s308360439.201834
+e308360439.218116
+r1
+xGenerateDSYMFile
+x/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app.dSYM
+x/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/TabBar.app.dSYM build/Debug-iphonesimulator/TabBar.app/TabBar308360439#308360439#0(0"0(0#0#72"/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar4300911832#358"    cd /Users/Neal/Desktop/TabBar    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/usr/bin/dsymutil" /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar -o /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app.dSYM0#
+
+CLd /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar normal i386
+s308360439.100096
+e308360439.201728
+r1
+xLd
+x/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+xnormal
+xi386
+lSLF07#2@77"Link /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar308360439#308360439#0(0"0(0#0#0"4300911832#817"    cd /Users/Neal/Desktop/TabBar    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -L/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator -F/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator -filelist /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBar.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar0#
+
+CProcessInfoPlistFile /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist TabBar-Info.plist
+s308360437.937176
+e308360437.940350
+r1
+xProcessInfoPlistFile
+x/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist
+xTabBar-Info.plist
+lSLF07#2@25"Process TabBar-Info.plist308360437#308360437#0(0"0(0#0#44"/Users/Neal/Desktop/TabBar/TabBar-Info.plist4300911832#448"    cd /Users/Neal/Desktop/TabBar    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabBar-Info.plist -genpkginfo /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist0#
+
+CProcessPCH /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-cbeyuczyxootuuctciatemzlrwlv/TabBar_Prefix.pch.gch TabBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308360438.290062
+e308360439.009227
+r1
+xProcessPCH
+x/var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-cbeyuczyxootuuctciatemzlrwlv/TabBar_Prefix.pch.gch
+xTabBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TabBar_Prefix.pch308360438#308360439#0(0"0(0#0#44"/Users/Neal/Desktop/TabBar/TabBar_Prefix.pch4300911832#1630"    cd /Users/Neal/Desktop/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator -I/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/include -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -c /Users/Neal/Desktop/TabBar/TabBar_Prefix.pch -o /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-cbeyuczyxootuuctciatemzlrwlv/TabBar_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-etaagixdhynejyanxxvnobumbloh/TabBar_Prefix.pch.gch TabBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-gxfpqgoypcudvyaknrkvxbvnyycj/TabBar_Prefix.pch.gch TabBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308360408.091093
+e308360408.950158
+r1
+xProcessPCH
+x/var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-gxfpqgoypcudvyaknrkvxbvnyycj/TabBar_Prefix.pch.gch
+xTabBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TabBar_Prefix.pch308360408#308360408#0(0"0(0#0#44"/Users/Neal/Desktop/TabBar/TabBar_Prefix.pch4300911832#1630"    cd /Users/Neal/Desktop/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator -I/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/include -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/Neal/Desktop/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -c /Users/Neal/Desktop/TabBar/TabBar_Prefix.pch -o /var/folders/IO/IO5dlOR6HnuphX1oX5PMqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-gxfpqgoypcudvyaknrkvxbvnyycj/TabBar_Prefix.pch.gch0#
+
+CTouch /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app
+s308360439.218217
+e308360439.221222
+r1
+xTouch
+x/Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app
+lSLF07#2@71"Touch /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app308360439#308360439#0(0"0(0#0#0"4300911832#261"    cd /Users/Neal/Desktop/TabBar    setenv PATH "/Developer 322/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 322/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Neal/Desktop/TabBar/build/Debug-iphonesimulator/TabBar.app0#
+
